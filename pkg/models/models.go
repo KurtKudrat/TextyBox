@@ -7,7 +7,7 @@ import (
 
 var ErrNoRecord = errors.New("models: no matching record found")
 
-type texty struct {
+type Texty struct {
 	ID      int
 	Title   string
 	Content string

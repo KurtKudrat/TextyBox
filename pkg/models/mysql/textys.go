@@ -3,7 +3,7 @@ package mysql
 import (
 	"database/sql"
 
-	"github.com/kurt/Learning/Golang/Project/textybox/pkg/models"
+	"github.com/KurtKudrat/TextyBox/pkg/models"
 )
 
 type TextyModel struct {
